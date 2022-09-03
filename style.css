@@ -77,13 +77,13 @@ a:hover {
     src: url(Fonts/Comfortaa-Bold.woff) format("woff");
   }
   .container {
-    border: 6px solid #6fcf43;
+    border: 6px solid #D61C4E;
     font-family: "Comfy", cursive;
     justify-content: center;
     align-items: center;
     width: 600px;
     height: 600px;
-    background-color: rgb(7, 5, 66);
+    background-color: rgb(0, 0, 0);
     text-align: center;
     border-radius: 50px;
   }
@@ -94,7 +94,7 @@ a:hover {
     margin: 20px;
     margin-top: 40px;
     padding: 15px;
-    border: 3px solid rgb(255, 255, 255);
+    border: 3px solid #D61C4E;
   }
   h1 {
     margin: 10px;
@@ -109,7 +109,7 @@ a:hover {
     text-decoration: none;
     color: black;
     border-radius: 30px;
-    background-color: rgb(111, 207, 67);
+    background-color: #D61C4E;
     padding: 20px;
     padding-left: 63px;
     padding-right: 63px;
